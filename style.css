@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #3f3f3f;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+h1{
+    color: #1ebcd8;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    background: none;
+    margin: 10px;
+    width: 200px;
+    color: white;
+    font-size: 1rem;
+}
+
+.form-control-submit{
+    background-color: #1ebcd8;
+    color: white;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
